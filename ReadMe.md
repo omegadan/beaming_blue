@@ -1,10 +1,13 @@
 #So, you want a C# program to solve a maze for you?
 
 ###Invariants:
-* The maze starts at black and finishes at blue.
+* The maze starts at red and finishes at blue.
 * Maze walls are black.
 * Solution is drawn in green.
- 
+
+###Usage:
+maze.exe source.png destination.png
+
 ###Example "Maze 1":
 
 ![Maze1](maze1.png)
